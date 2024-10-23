@@ -1,0 +1,15 @@
+Challenge #
+
+Responda as seguintes perguntas:
+
+Quanto SOL a transferência levou? Quanto é isso em USD? 
+R: 0.000005 SOL, 0,000028 USD no dia 23/10/2024 ás 19:40, cotação do dolar está 5,60.
+
+Você consegue encontrar sua transação em https://explorer.solana.com ? Lembre-se de que estamos usando a devnetrede.
+R:Sim, https://explorer.solana.com/tx/eGgZjNaKH5ZRALTGo7c3jhWGBhdLmvMGWryLcd6WF1FK8oMpZ8j7VPtHo7XMDoiKDTxWfzNAHA2u9ezwULJUFEo?cluster=devnet
+
+Quanto tempo demora a transferência?
+R: Em torno de segundos.
+
+O que você acha que significa "confirmado"?
+R: transação concluida com sucesso.
